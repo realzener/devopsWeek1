@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello devops week1"
-
+echo Hello Devops
+echo Nice to be here
